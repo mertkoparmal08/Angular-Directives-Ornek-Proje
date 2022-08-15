@@ -8,6 +8,7 @@ Angular Directives Ornek Proje
 - Pagination'a o anki sayfa numarasına göre 'Önceki' ve 'Sonraki' butonlarını devre dışı bırakma özelliği verildi.
 - Buna göre ilk sayfada 'Önceki', son sayfada da 'Sonraki' butonu devremdışı kalıyor.
 - Onlarca sayfa olma durumunda da Pagination'da sağdan ve soldan 4'er sayfa sayısı görünmesi eklendi.
+- Oluşturulan Custom Directive sayesinde, bölge adınının arka planına HTML sayfasından müdahale edilebilmesi sağlandı.
  
  #
 * Proje Angular kullanılarak oluşturuldu.
