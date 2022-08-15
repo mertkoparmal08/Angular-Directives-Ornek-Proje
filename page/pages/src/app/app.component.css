@@ -1,0 +1,11 @@
+.pagination{
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
